@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Hairline.eot');
+    src: local('NuckleHairline'), local('Nuckle-Hairline'),
+        url('fonts/Nuckle-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Hairline.woff2') format('woff2'),
+        url('fonts/Nuckle-Hairline.woff') format('woff'),
+        url('fonts/Nuckle-Hairline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Medium.eot');
+    src: local('NuckleMedium'), local('Nuckle-Medium'),
+        url('fonts/Nuckle-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Medium.woff2') format('woff2'),
+        url('fonts/Nuckle-Medium.woff') format('woff'),
+        url('fonts/Nuckle-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Semibold.eot');
+    src: local('NuckleSemibold'), local('Nuckle-Semibold'),
+        url('fonts/Nuckle-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Semibold.woff2') format('woff2'),
+        url('fonts/Nuckle-Semibold.woff') format('woff'),
+        url('fonts/Nuckle-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-ExtraLight.eot');
+    src: local('NuckleExtraLight'), local('Nuckle-ExtraLight'),
+        url('fonts/Nuckle-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-ExtraLight.woff2') format('woff2'),
+        url('fonts/Nuckle-ExtraLight.woff') format('woff'),
+        url('fonts/Nuckle-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Bold.eot');
+    src: local('NuckleBold'), local('Nuckle-Bold'),
+        url('fonts/Nuckle-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Bold.woff2') format('woff2'),
+        url('fonts/Nuckle-Bold.woff') format('woff'),
+        url('fonts/Nuckle-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Light.eot');
+    src: local('NuckleLight'), local('Nuckle-Light'),
+        url('fonts/Nuckle-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Light.woff2') format('woff2'),
+        url('fonts/Nuckle-Light.woff') format('woff'),
+        url('fonts/Nuckle-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle-Thin';
+    src: url('fonts/Nuckle-Thin.eot');
+    src: local('NuckleThin'), local('Nuckle-Thin'),
+        url('fonts/Nuckle-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Thin.woff2') format('woff2'),
+        url('fonts/Nuckle-Thin.woff') format('woff'),
+        url('fonts/Nuckle-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nuckle';
+    src: url('fonts/Nuckle-Regular.eot');
+    src: local('NuckleRegular'), local('Nuckle-Regular'),
+        url('fonts/Nuckle-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nuckle-Regular.woff2') format('woff2'),
+        url('fonts/Nuckle-Regular.woff') format('woff'),
+        url('fonts/Nuckle-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
